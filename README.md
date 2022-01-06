@@ -1,3 +1,3 @@
 ### Hi there 👋
 
--3rd year cs@SFU
+-3rd year cs
